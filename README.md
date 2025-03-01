@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning HTML, JAVA & SQL
 - 💞️ I’m looking to collaborate on the above languages☝️
 - 📫 How to reach me barasaignatius9@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Loves coding & ⚽ 
 
 <!---
